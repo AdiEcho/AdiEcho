@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/AdiEcho/count.svg" />
-</p>
+
 
 <p align="center"> 
    <img alingn="center" src="https://github-readme-stats.vercel.app/api?username=AdiEcho&count_private=true&show_icons=true&theme=react" />
@@ -26,3 +24,9 @@ Here are some ideas to get you started:
    <img alingn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiEcho&count_private=true&layout=compact&hide=html,css&theme=react" />
 </p>
 
+
+<p align="center"> 
+   You are the 
+   <img alingn="center" src="https://profile-counter.glitch.me/AdiEcho/count.svg" />
+   visitor
+</p>
