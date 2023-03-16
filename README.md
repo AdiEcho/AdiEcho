@@ -25,8 +25,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center"> 
-   You are the 
-   <img alingn="center" src="https://profile-counter.glitch.me/AdiEcho/count.svg" />
-   visitor
-</p>
+![](https://visitor-badge.laobi.icu/badge?page_id=adiecho.readme)
