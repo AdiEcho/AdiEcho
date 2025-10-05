@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <p align="center"> 
    <img alingn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiEcho&count_private=true&layout=compact&hide=html,css&theme=react" />
 </p>
-
+<p align="center"> 
+   <img alingn="center" src="github-readme-stats-ruby-phi-56.vercel.app/api/top-langs/?username=AdiEcho&count_private=true&layout=compact&hide=html,css&theme=react" />
+</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=adiecho.readme)
